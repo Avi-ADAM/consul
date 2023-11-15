@@ -9,13 +9,13 @@ he:
     email_verification:
       click_here_to_verify: קישור זה
       instructions_2: האימייל זה יאמת את החשבון שלך עם <b>-%{document_type} - %{document_number}-</b>. אם אלו שלא שייכים לך, נא לא ללחוץ על הקישור הקודם, התעלם מדוא"ל זה.
-      instructions: כדי להשלים את אימות חשבון המשתמש שלך, עליך ללחוץ על %{verification_link}.
-      subject: נא אשר את הדוא"ל שלך
+      instructions: כדי להשלים את אימות חשבון המשתמש שלך, נא ללחוץ על %{verification_link}.
+      subject: נא לאשר את הדוא"ל שלך
       thanks: תודה מכל הלב.
-      title: "אשר את חשבונך באמצעות הקישור הבא"
+      title: "יש לאשר את חשבונך באמצעות הקישור הבא"
     reply:
       hi: שלום
-      new_reply_by: ישנה התייחסות חדשה מ <strong>%{commenter}</strong> לתגוב
+      new_reply_by: ישנה התייחסות חדשה מ <strong>%{commenter}</strong> לתגובה
       subject: מישהו הגיב להערה שלך
       title: התקבלה תגובה חדשה להערה שלך
     proposal_notification_digest:
