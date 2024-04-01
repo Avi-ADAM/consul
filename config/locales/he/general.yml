@@ -733,8 +733,19 @@ he:
       see_more: ראה עוד המלצות
       hide: הסתר המלצות
     translations:
+      select_language_prompt: בחירת שפה
       remove_language: הסרת שפה
       add_language: הוספת שפה
+      languages_in_use:
+        zero: "אין שפות בשימוש"
+        one: "שפה אחת בשימוש"
+        other: "שפות בשימוש %{count} "
+    optional: "שדות רשות"
+    required: "שדות חובה"
+    comments:
+      one: "הערה אחת"
+      other: "הערות %{count}"
+      zero: "אין הערות"
   social:
     facebook: "%{org} פייסבוק"
     twitter: "%{org} טוויטר"
